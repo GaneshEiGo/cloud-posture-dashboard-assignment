@@ -25,7 +25,9 @@ Explains why the issue matters and provides clear steps to fix it.
 
 ## Figma Wireframes
 Frame 1 - https://www.figma.com/make/7xHnFyRk0kCpNgSBAvfyX9/Cloud-Security-Dashboard-Design?p=f&t=WhY873nbNLGDm07j-0&fullscreen=1
+
 Frame 2 - https://www.figma.com/make/zEvul4nuOof6BfjWFNBrr5/Design-Critical-Issues-Frame?p=f&t=VmizUu5eaFz8evaP-0&fullscreen=1
+
 Frame 3 - https://www.figma.com/make/WokQEgy7DKoN42zHb6q8u1/Design-Issue-Details-Frame?p=f&t=GTKIDpbZJ3v6uSvt-0&fullscreen=1
 
 ## Notes
