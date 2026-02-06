@@ -32,6 +32,9 @@ Frame 2 - https://www.figma.com/make/zEvul4nuOof6BfjWFNBrr5/Design-Critical-Issu
 
 Frame 3 - https://www.figma.com/make/WokQEgy7DKoN42zHb6q8u1/Design-Issue-Details-Frame?p=f&t=GTKIDpbZJ3v6uSvt-0&fullscreen=1
 
+##Cloud Posture Dashboard – Frames, Features, and Flow
+Doc Link - https://docs.google.com/document/d/1CfrcyM6wFIRckDgNhv5QKkGsdxlt_I2cl0IxCzaQSfY/edit?usp=drivesdk
+
 ## Notes
 - Design prioritizes clarity over alert noise
 - Motion is used only as background intelligence
